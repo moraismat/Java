@@ -1,0 +1,16 @@
+BlueJ run started: Tue Jul 30 10:12:09 GFT 2019
+BlueJ version 4.1.2
+Java version 1.8.0_144
+Virtual machine: Java HotSpot(TM) Client VM 25.144-b01 (Oracle Corporation)
+Running on: Windows 10 10.0 (x86)
+Java Home: C:\Users\alanm\Desktop\LP1\bluej\jdk\jre
+----
+Detected language "portuguese" based on iso639-2 code "por"
+Opening project: C:\Users\alanm\repo\ludo-lp1-monitoria\bluej_dist
+1564492351699: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+java.io.FileNotFoundException while reading import cache: userhome\bluej\import-cache.xml (O sistema não pode encontrar o arquivo especificado)
+1564492373244: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
